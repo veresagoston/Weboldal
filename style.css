@@ -1,0 +1,15 @@
+body{
+	background-image: url('alap.jpg') ;
+	font-family:Times new roman;
+	color:#333333;
+	margin: 20px auto;
+	width: 70%;
+}
+#h3:{
+	font-weight:normal;
+	text-align: center;
+
+}
+kor{
+list-style-type:circle;	
+}
